@@ -3,8 +3,8 @@
 class Vela < Formula
   desc "Ultra-fast, ultra-light media player for macOS"
   homepage "https://github.com/vela-player/vela"
-  url "https://github.com/vela-player/vela/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "261ad61e34abb76be7df966a1e86e28bd924c44088e1259e473e1c14c3e2c6d8"
+  url "https://github.com/vela-player/vela/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "89a1a67e35fa5ea45393cac1d38db3971a62b77e7ecef301e18b342919839217"
   license "GPL-3.0-or-later"
   head "https://github.com/vela-player/vela.git", branch: "main"
 
